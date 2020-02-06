@@ -1,0 +1,19 @@
+
+/** ADD YOUR AWESOME CODES HERE **/
+.Pilares{
+    margin-top: 50px;
+}
+
+.imgPilares{
+    margin: auto;
+}
+
+.redesSociales{
+    margin-right: 15px;
+}
+
+.listaRedesSociales{
+    font-size: 30px;
+    display: inline-flex;
+    float:right;
+}
